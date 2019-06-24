@@ -1,8 +1,14 @@
+# Try This Out!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollstein/PredictMe/master?filepath=index.ipynb)
+
 ## Suveymonkey
+
+Change survey here
 
 https://developer.surveymonkey.com/apps/
 
-## How to show this
+## Binder Setup
 
-Need to be outside of company internet.
-https://ovh.mybinder.org/
+Basic setup: https://ovh.mybinder.org/
+Bind link: https://mybinder.org/v2/gh/hollstein/PredictMe/master?filepath=index.ipynb
