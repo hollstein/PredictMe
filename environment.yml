@@ -12,5 +12,5 @@ dependencies:
   - requests
   - plotly
   - scikit-learn=0.21
-  - pip
+  - pip:
     - shap
